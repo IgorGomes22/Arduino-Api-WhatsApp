@@ -1,7 +1,8 @@
-Controle de Acesso com Arduino e ESP32
+##Controle de Acesso com Arduino e ESP32
 Este projeto consiste em um sistema de controle de acesso desenvolvido com Arduino e ESP32, integrado à API do WhatsApp CallMeBot para notificação automática via mensagem quando uma chave é retirada ou devolvida ao local.
-![Mensagem](msg.jpg)
-
+'''
+![Mensagem](msg.png)
+'''
 Funcionalidades
 Notificação automática via WhatsApp ao retirar ou devolver uma chave.
 Monitoramento em tempo real do estado das chaves.
