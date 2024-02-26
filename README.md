@@ -11,8 +11,8 @@ Este projeto consiste em um sistema de controle de acesso desenvolvido com Ardui
 
 ## Hardware Necessário
 
-- Placa Arduino (exemplo: Arduino Uno)
-- Placa ESP32 (ou módulo ESP8266)
+- Placa Arduino (Arduino Mega)
+- Placa ESP32 
 - Módulo de relé para controle dos dispositivos de segurança
 - Smartphone com WhatsApp para recebimento das notificações
 
